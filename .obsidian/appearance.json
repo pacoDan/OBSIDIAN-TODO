@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "mi_estilo_1"
+  ],
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 13
+}

@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d9a4abbcbfc8d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f7ce717e196d9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"CICLO financiacion/3 ciclo gestion/\"  propiedad intelec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1b41b8ed1899bc53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5135154724121
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de radioenlace v4"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de radioenlace v4"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de radioenlace v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1f7ce717e196d9ff",
+  "lastOpenFiles": [
+    "GESTION COMERCIAL/clase 2.md",
+    "README.md.md",
+    "ELIXIR/Ejercicio ENTREVISTA.md",
+    "ADMIN GERENCIAL/mecanicismo organicismo dinamicas teoria de la contingencia.md",
+    "ELIXIR/Bienvenido.md",
+    "alternativas a Android-x86 para emular android.md",
+    "ELIXIR/SDG ejercicio racing river feedback.md",
+    "ELIXIR/SDG comentarios recuperatorio.md",
+    "ELIXIR/PREGUNTAS - Preguntas y Respuestas sobre Elixir.md",
+    "ELIXIR/Alternativas a VLC para Reproducir Videos de Forma Open Source.md",
+    "ELIXIR/alternativas a termius y explorer.md",
+    "ELIXIR/Actores en elixir.md",
+    "ELIXIR/05 Pattern Matching y Operaciones con Tipos de Datos en Elixir.md",
+    "ELIXIR/04 Curso de Elixir - asignaciones y operadores lógicos, va aprender cuales son los operadores lógicos que tiene el lenguaje y como se utilizan, también veremos como manipular cadenas y realizar asignaciones..md",
+    "ELIXIR/03 Curso de Elixir - IEx y tipos de datos basicos del lenguaje.md",
+    "ELIXIR/03 bis.md",
+    "ELIXIR/02 Curso de Elixir - Instalación de Elixir mediante asdf.md",
+    "ELIXIR",
+    "ALAMESA.md",
+    "Pasted image 20250821205827.png",
+    "NO SQL/alternativas a S3.md",
+    "NO SQL/redis con backend.md",
+    "PROMPT.md",
+    "NO SQL/clase 2.md",
+    "NO SQL/cosillas de conexiones clientes sql.md",
+    "NO SQL/clase 1 ok.md",
+    "NO SQL/Sin título 1.md",
+    "NO SQL/base.sh del server utnso.md",
+    "ADMIN GERENCIAL/capturas/Pasted image 20250409195904.png",
+    "LEGISLACION",
+    "GESTION COMERCIAL",
+    "NO SQL",
+    "SIMULACION/VA variables aleatorias",
+    "SIMULACION",
+    "COMPUTADORA SELF",
+    "CICLO financiacion/4 Comercializacion",
+    "CICLO financiacion/3 ciclo gestion",
+    "CICLO financiacion/2 equipo de trabajo"
+  ]
+}

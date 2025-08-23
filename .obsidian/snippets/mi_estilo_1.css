@@ -1,0 +1,32 @@
+/* mi-estilo-personalizado.css */
+
+/* === TEXTO NORMAL === */
+.markdown-preview-view,
+.cm-editor {
+    line-height: 1.2; /* Menos espaciado entre líneas */
+    font-size: 15px;
+}
+
+/* === PÁRRAFOS === */
+.markdown-preview-view p {
+    margin-bottom: 0.5em; /* Menos espacio entre párrafos */
+}
+
+/* === HEADINGS === */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+    line-height: 1.2;
+}
+
+/* === LISTAS === */
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+    margin-bottom: 0.5em;
+}
+
+.markdown-preview-view li {
+    margin-bottom: 0.2em;
+}
