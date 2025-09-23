@@ -69,19 +69,22 @@ esas tres paletas están dentro del campo de acción del gerente, incluido  el m
 		    ![[Pasted image 20250628132554.png]]
 	![[Pasted image 20250628132821.png]]
 - **Líder:**
-    - Guía, cuida, capacita y ayuda a las personas que forman la organización.
+
+	- Guía, cuida, capacita y ayuda a las personas que forman la organización.
     - Debe saber comunicar y hacerse entender, influyendo en el comportamiento de la gente para el logro de objetivos.
     - Es el principal agente de cambio dentro de la organización, proponiendo e impulsando las transformaciones.
     - Se analiza ==la sensibilidad hacia las personas y hacia los objetivos==: ver la parte de le importa y no le importa 
-        
+
         - **Autócrata:** Aguda sensibilidad a objetivos, débil a personas (==tirano, directivo==).
         - **Permisivo/Burócrata:** Débil sensibilidad a objetivos, aguda a personas (despreocupado, demagogo).
         - **Líder:** Aguda sensibilidad a objetivos y a personas. Le importa a la gente, Debe saber comunicar, debe saberse entender, logra influir a la gente para resolver objetivos del a mejor manera. El líder es el que impulsa los cambios.
-        
+
+
     grid gerencial:  que tipo de gerentes somos
     le importa mas a los objetivos: es un dictador o directivo
 	    permisivo: nos preocupa mucho a la gente, acá la gente suele tomar decisiones (por democracia)
     ![[Pasted image 20250628135242.png]]
+    
 hasta acá  Sallenave
 ![[Pasted image 20250628140152.png]]
 
@@ -125,12 +128,12 @@ los papeles y los roles no estan ailsado, esta interrelacinados
 **8. Habilidades del Gerente (Conceptual, Técnica, Humana):** nada que ver con Mintzberg ni Sallenave
 ![[Pasted image 20250628141437.png]]
 - Las habilidades requeridas varían según la posición del gerente en la organización:
-    
+
     - **Habilidades Conceptuales:** Visión de conjunto de la organización, objetivos globales, estrategia. Se exigen en mayor medida a los gerentes generales (niveles altos) y disminuyen a medida que se baja en la jerarquía.
     - **Habilidades Técnicas:** Conocimiento de procedimientos, recursos, cómo se hacen las cosas. Se exigen en mayor medida a los niveles más bajos y disminuyen a medida que se sube.
-    - **Habilidades Humanas:** Manejo interpersonal, motivar, resolver problemas interpersonales, liderar. Son necesarias en **todos los niveles** de la organización. Por que en las humanas  siempre trabajan con gente. Tiene que ver  como liderar con la gente tambien.
-    
+    - **Habilidades Humanas:** Manejo interpersonal, motivar, resolver problemas interpersonales, liderar. Son necesarias en **todos los niveles** de la organización. Por que en las humanas  siempre trabajan con gente. Tiene que ver  como liderar con la gente tambien.    
 	- Un gerente general debe tener un alto porcentaje de habilidades conceptuales y algo de técnicas. Un supervisor debe tener un alto porcentaje de habilidades técnicas y algo de conceptuales. Las habilidades humanas son cruciales para todos.
+
 y ahora esta bueno esto: y siempre las humana en todos los niveles
 ![[Pasted image 20250628141730.png]]
 

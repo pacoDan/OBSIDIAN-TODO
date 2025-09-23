@@ -1,0 +1,170 @@
+xd
+```md
+    - LA TRANSFORMACIÓN DIGITAL
+        - ¿QUÉ ES LA TRANSFORMACIÓN DIGITAL?
+        - GENERACIÓN ANALÓGICA VS DIGITAL
+            - Generación "Baby Boomer" (1946-1964)
+            - Generación X (1965-1980)
+            - Millennials (Generación Y) (1981-2000)
+            - Generación Z (2001-2011)
+            - Generación Alpha (2011-actualidad)
+        - BENEFICIOS Y RIESGOS DE LA TRANSFORMACIÓN DIGITAL
+            - Beneficios
+            - Riesgos
+    - GESTIÓN DE LA CRISIS ORGANIZACIONAL
+        - INTRODUCCIÓN
+        - ACTITUDES ANTE LAS MANIFESTACIONES DE LA CRISIS
+            - Cuadrante 1: Inactiva/Rígida
+            - Cuadrante 2: Reactiva/Adaptativa
+            - Cuadrante 3: Preactiva/Anticipada
+            - Cuadrante 4: Proactiva/Interactiva
+        - LA CRISIS PATRIMONIAL
+            - DE LA PÉRDIDA DE COMPETITIVIDAD A LA INSOLVENCIA
+        - METODOLOGÍA DE LA RECUPERACIÓN
+            - DIAGNÓSTICO DE LA EMPRESA
+            - PLAN DE EMERGENCIA
+            - PLAN ESTRATÉGICO DE RECUPERACIÓN
+        - RECUPERACIÓN Y APRENDIZAJE
+    - ORGANIZACIONES DE CULTURA ÁGIL
+        - INTRODUCCIÓN
+            - Factores de las organizaciones ágiles
+            - Células de desempeño ágiles
+            - Características del modelo de ciclos rápidos
+        - TRANSFORMAR UNA ORGANIZACIÓN DE WATERFALL A ÁGIL
+            - TRANSFORMACIÓN VS ADOPCIÓN
+            - ASPECTOS A CONSIDERAR
+                - Entrenamiento
+                - Aprendizaje y mejora continua
+                - Compromiso
+                - Cambios de estructura
+                - Comunicación y cultura
+        - CULTURA Y ESTRUCTURA ÁGILES
+            - Características de las organizaciones Agile
+            - Construir una Cultura de Aprendizaje Ágil
+                - Crear Visión
+                - Apoyarse en el aprendizaje de los pares
+                - Hacer lugar para los equipos
+                - Aprender constantemente
+                - Aprender lo necesario, cuando es necesario
+                - Desarrollar nuevas habilidades
+                - Personalizar el aprendizaje
+                - Llevar el aprendizaje a todos lados
+        - LOS NUEVE PRINCIPIOS DE UN LIDERAZGO ÁGIL
+            - Las acciones hablan más que las palabras
+            - Mejorar la forma de pensar, mejora los resultados
+            - Las organizaciones mejoran a través de un feedback efectivo
+            - Las personas necesitan conocer el “porqué de las cosas”
+            - La emoción es la base para la creatividad e innovación
+            - El liderazgo se encuentra en toda la organización
+            - Los líderes dan el nivel apropiado de poder y autoridad, ellos delegan
+            - Las comunidades logran más que los individuos
+            - Las grandes ideas nacen en toda la organización
+        - ORGANIZACIÓN BIMODAL
+    - DIVERSIDAD
+        - LA TRANSFORMACIÓN DIGITAL DEPENDE DE LA DIVERSIDAD.
+        - TIPOS DE DIVERSIDAD
+            - DIVERSIDAD DE GÉNERO
+            - DIVERSIDAD GENERACIONAL
+            - DIVERSIDAD CULTURAL
+            - DIVERSIDAD FUNCIONAL
+            - DIVERSIDAD SEXUAL
+        - ¿POR QUÉ NECESITAMOS GESTIONAR LA DIVERSIDAD EN LAS ORGANIZACIONES?
+            - Atracción y retención de talento
+            - Mayor adaptabilidad
+            - Amplia gama de servicios
+            - Variedad de puntos de vista
+            - Ejecución más efectiva
+    - GESTIÓN DE LA TRANSFORMACIÓN DIGITAL
+        - INTRODUCCIÓN
+        - PRIMEROS PASOS EN LA TRANSFORMACIÓN DIGITAL
+        - ¿CÓMO SE GESTIONA EL CAMBIO CULTURAL PARA LOGRAR LA TRANSFORMACIÓN DIGITAL?
+        - ¿QUÉ ES LA CULTURA DIGITAL?
+        - LA INFLUENCIA DE INTERNET EN LA CULTURA DIGITAL ¿TRANSFORMACIÓN DIGITAL O TRANSFORMACIÓN CULTURAL?
+        - 10 CONSEJOS PARA CONSTRUIR UNA CULTURA DIGITAL
+        - TIPOS DE PROCESOS DE CAMBIO
+            - Cambios reactivos
+            - Cambios adaptativos
+            - Cambios proactivos
+        - PROCESO DE CAMBIO SEGÚN JOHN KOTTER – CAMBIOS PROACTIVOS PARA LA TRANSFORMACIÓN DIGITAL
+            - Paso 1: Generar sentido de urgencia
+            - Paso 2: Formar una coalición
+            - Paso 3: Desarrollar una visión clara
+            - Paso 4: Comunicar la visión
+            - Paso 5: Remover obstáculos
+            - Paso 6: Crear logros a corto plazo
+            - Paso 7: Consolidar las mejoras
+            - Paso 8: Anclar los cambios
+        - LOS EJES DE LA TRANSFORMACIÓN DIGITAL
+            - Primer eje: Procesos operacionales
+            - Segundo eje: Experiencia del cliente
+            - Tercer eje: El modelo de negocio
+            - Cuarto eje: La cultura digital
+        - GRUPOS DE INTERÉS (STAKEHOLDERS)
+            - Matriz de impacto para stakeholders
+        - ROLES CLAVES EN TRANSFORMACIÓN DIGITAL
+            - Enlaces entre el negocio y la tecnología
+            - Tecnólogos
+            - Especialistas en seguridad y cumplimiento normativo
+            - Campeones digitales
+            - Sponsor financiero
+            - Gestores de proyectos o PM’s
+            - Vendedores
+            - Líderes de implementación
+        - COMPETENCIAS NO DIGITALES NECESARIAS PARA LA TRANSFORMACIÓN DIGITAL
+            - Conocimiento digital
+            - Gestión de la información
+            - Comunicación digital
+            - Trabajo en red
+            - Aprendizaje continuo
+            - Visión estratégica
+            - Liderazgo en red
+            - Orientación al cliente
+            - El papel del campeón digital
+        - CARACTERÍSTICAS DEL CAMPEÓN DIGITAL
+            - Una Visión Clara
+            - Paciencia y Persistencia
+            - Hacer preguntas inteligentes
+            - Conocimiento y liderar con el ejemplo
+            - Relaciones fuertes basadas en la confianza
+        - LA IMPORTANCIA DEL TRABAJO EN RED
+            - Red cohesiva
+            - Red nodal
+        - RESISTENCIA AL CAMBIO
+            - ¿QUÉ ES Y CÓMO SE MANIFIESTA?
+            - 12 RAZONES TÍPICAS POR LAS CUALES EXISTE LA RESISTENCIA
+            - ¿CÓMO REDUCIR LA RESISTENCIA AL CAMBIO?
+        - EL ROL DE LA INTELIGENCIA EMOCIONAL EN UN PROCESO DE TRANSFORMACIÓN DIGITAL
+        - ¿POR QUÉ FRACASAN LOS PROYECTOS DE TRANSFORMACIÓN DIGITAL?
+    - CAMBIOS APLICADOS EN LAS ORGANIZACIONES
+        - ENTORNO VICA
+            - INTRODUCCIÓN
+            - CONOCIMIENTO Y PREDICTIBILIDAD: CLAVES PARA ADAPTARSE AL ENTORNO VICA
+            - LA FIGURA DEL LÍDER O CÓMO SOBREVIVIR AL ENTORNO VICA
+        - HOLOCRACIA
+            - INTRODUCCIÓN
+            - QUÉ ES LA HOLOCRACIA
+            - ESTRUCTURA
+            - REUNIONES DE GOBERNANZA
+            - ADOPCIÓN DE LA HOLOCRACIA
+        - REINGENIERÍA
+            - INTRODUCCIÓN
+            - PRINCIPIOS NORMATIVOS DE LA REINGENIERÍA
+    - LA TRANSFORMACIÓN DIGITAL Y SU RELACIÓN CON LOS DATOS
+        - LA IMPORTANCIA DE LOS DATOS EN LA TRANSFORMACIÓN DIGITAL
+    - TRABAJO EN EQUIPOS DIGITALES
+        - INTRODUCCIÓN
+        - LA CLAVE PARA UNA TRANSFORMACIÓN DIGITAL EXITOSA SON LOS EQUIPOS DIGITALES DE ALTO RENDIMIENTO
+        - EL CAMINO A CONSTRUIR UN EQUIPO ALTAMENTE EFECTIVO
+            - DEFINICIÓN DE GRUPO
+            - ¿QUÉ ES UN EQUIPO?
+            - ¿POR QUÉ TRABAJAR EN EQUIPO?
+            - PRINCIPIOS GENERALES EN LA FORMACIÓN DE EQUIPOS
+            - ETAPAS EN LA FORMACIÓN Y EVOLUCIÓN DE LOS EQUIPOS
+            - TIPOS DE EQUIPOS
+            - EL CONFLICTO EN LOS EQUIPOS
+                - CONFLICTO INTERNO - TIPOS DE CONFLICTOS DENTRO DE LOS EQUIPOS
+                - CONFLICTO EXTERNO - FUENTES DE CONFLICTO EN LA ORGANIZACIÓN
+            - EQUIPOS EFECTIVOS
+                - CARACTERÍSTICAS DE LOS EQUIPOS EFECTIVOS
+                - ¿QUÉ HACE EFECTIVO A UN EQUIPO?
+```

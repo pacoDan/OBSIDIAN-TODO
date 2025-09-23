@@ -35,7 +35,6 @@ Tiene que ver una legitimación de liderazgo
     - **Consecuencias:** Baja moral y satisfacción de los empleados a largo plazo; el grupo sucumbe ante la ausencia del líder (no saben tomar decisiones). Mayor volumen cuantitativo.
     
 - **Movimiento hacia la Derecha (Democrático):** sabe tomar tomar desiciones
-    
     - El poder se traslada progresivamente hacia los colaboradores.
     - El empleo de la autoridad del jefe se reduce.
     - Aumenta el área de libertad y la capacidad de los colaboradores para tomar decisiones.

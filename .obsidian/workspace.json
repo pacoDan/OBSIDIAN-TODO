@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d9a4abbcbfc8d4",
+        "id": "4d544feddea178be",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7ce717e196d9ff",
+            "id": "fd61065eb8eaefd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
+                "file": "SO-NOTAS/masoero hilos 1-2 ok.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "masoero hilos 1-2 ok"
+            }
+          },
+          {
+            "id": "5245fcb89de1b7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDS-Notas/RPA.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RPA"
+            }
+          },
+          {
+            "id": "32b206a6fd355923",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -53,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"CICLO financiacion/3 ciclo gestion/\"  propiedad intelec",
+                "query": "path:\"GESTION DE LA TRANSFORMACION ORGANIZACIONAL/\" gestion del cambio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5135154724121
+    "width": 378.5
   },
   "right": {
     "id": "55bd2488a8928069",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "radioenlace/radioenlace v4.md",
+                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de radioenlace v4"
+              "title": "Enlaces entrantes de notas gerente general sallenave 2025 04 16 super ok"
             }
           },
           {
@@ -169,45 +193,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1f7ce717e196d9ff",
+  "active": "fd61065eb8eaefd0",
   "lastOpenFiles": [
-    "GESTION COMERCIAL/clase 2.md",
-    "README.md.md",
-    "ELIXIR/Ejercicio ENTREVISTA.md",
-    "ADMIN GERENCIAL/mecanicismo organicismo dinamicas teoria de la contingencia.md",
-    "ELIXIR/Bienvenido.md",
-    "alternativas a Android-x86 para emular android.md",
-    "ELIXIR/SDG ejercicio racing river feedback.md",
-    "ELIXIR/SDG comentarios recuperatorio.md",
-    "ELIXIR/PREGUNTAS - Preguntas y Respuestas sobre Elixir.md",
-    "ELIXIR/Alternativas a VLC para Reproducir Videos de Forma Open Source.md",
-    "ELIXIR/alternativas a termius y explorer.md",
-    "ELIXIR/Actores en elixir.md",
-    "ELIXIR/05 Pattern Matching y Operaciones con Tipos de Datos en Elixir.md",
-    "ELIXIR/04 Curso de Elixir - asignaciones y operadores lógicos, va aprender cuales son los operadores lógicos que tiene el lenguaje y como se utilizan, también veremos como manipular cadenas y realizar asignaciones..md",
-    "ELIXIR/03 Curso de Elixir - IEx y tipos de datos basicos del lenguaje.md",
-    "ELIXIR/03 bis.md",
-    "ELIXIR/02 Curso de Elixir - Instalación de Elixir mediante asdf.md",
-    "ELIXIR",
-    "ALAMESA.md",
+    "SO-NOTAS/memoria virtual 1-2.md",
+    "SO-NOTAS/Paginación Multinivel vs Tabla de Páginas Invertida adriano.md",
+    "SO-NOTAS/masoero hilos 1-2 ok.md",
+    "SO-NOTAS/clase 4 - planificación SO.md",
+    "SO-NOTAS/clase 3 - planificación practica.md",
+    "SO-NOTAS/clase 3 - repaso procesos.md",
+    "DDS-Notas/ENTREGA FINAL.md",
+    "SO-NOTAS/otros/COBOL recomendaciones.md",
+    "SO-NOTAS/otros/deepseek respuesta a pregunta.md",
+    "SO-NOTAS/sincronizacion - practica 1-3.md",
+    "SO-NOTAS/prompt.md",
+    "SO-NOTAS/otros",
+    "SO-NOTAS/memoria virtual 2-2.md",
+    "SO-NOTAS/memoria repaso.md",
+    "SO-NOTAS/memoria  2-2.md",
+    "SO-NOTAS/masoero - procesos 3-3 revisar y repasar igual.md",
+    "SO-NOTAS/masoero - concurrencia 2 -2.md",
+    "SO-NOTAS/masoero - concurrencia 1 -2.md",
+    "SO-NOTAS/masoero - RR VRR KLT ULT.md",
+    "SO-NOTAS/file system 1-2.md",
+    "SO-NOTAS/file system  repaso.md",
+    "SO-NOTAS/deadlook 1-2.md",
+    "SO-NOTAS/clase 4 - planificación REPASO ver devuelta.md",
+    "SO-NOTAS/clase 3 - Planificación - Fundamentos y algoritmos simples.md",
+    "SO-NOTAS/clase 2 - Procesos e Hilos.md",
+    "SO-NOTAS/clase 1 - Repaso de Arquitectura de Computadoras.md",
+    "SO-NOTAS/clase 1 - Introducción a los Sistemas Operativos.md",
+    "SO-NOTAS",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL",
     "Pasted image 20250821205827.png",
-    "NO SQL/alternativas a S3.md",
-    "NO SQL/redis con backend.md",
-    "PROMPT.md",
-    "NO SQL/clase 2.md",
-    "NO SQL/cosillas de conexiones clientes sql.md",
-    "NO SQL/clase 1 ok.md",
-    "NO SQL/Sin título 1.md",
-    "NO SQL/base.sh del server utnso.md",
-    "ADMIN GERENCIAL/capturas/Pasted image 20250409195904.png",
-    "LEGISLACION",
-    "GESTION COMERCIAL",
-    "NO SQL",
-    "SIMULACION/VA variables aleatorias",
-    "SIMULACION",
-    "COMPUTADORA SELF",
-    "CICLO financiacion/4 Comercializacion",
-    "CICLO financiacion/3 ciclo gestion",
-    "CICLO financiacion/2 equipo de trabajo"
+    "_COSILLAS/windows 8",
+    "_COSILLAS",
+    "ECONOMICAS/DOLAR EN BOLIVIA",
+    "AECH",
+    "GTH",
+    "PORTAL CAUTIVO",
+    "TERMINAL",
+    "ADMIN GERENCIAL/capturas/Pasted image 20250409195904.png"
   ]
 }

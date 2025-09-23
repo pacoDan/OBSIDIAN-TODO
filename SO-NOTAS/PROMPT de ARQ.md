@@ -1,0 +1,1 @@
+reestructura mejor este contenido de arquitectura y organización de computadores, además recopila preguntas con sus respectivas respuestas: de flip flop y demás registros contadores 

@@ -5,6 +5,3 @@ Estructura bien esta transcripción, recopila todas las preguntas y respuestas p
 - cambio en la cultura y la manera de trabajar
 - por que no migran a digitalización
 - condiciones del rollplay
-
-
-

@@ -220,12 +220,183 @@ La transcripción aborda varios temas relacionados con la arquitectura de comput
 - **Comparación de Números:**
     
     - **Concepto:** Utilizar instrucciones de comparación y salto condicional (ej. JEQ, JGT, JLT) para ejecutar diferentes bloques de código según la relación entre dos números.
+
+---
+#### **3.5. Ejercicio 4: Simulación de Programa y Valores Finales (Ejercicios de Assembler)**
+
+- **Contexto:** Se proporciona el programa del Ejercicio 3 y se dan valores en memoria para las direcciones A10 y A11.
+    
+    - Memoria[A10] = A35Eh
+    - Memoria[A11] = A3A1h
+    
+- **Tarea:** Simular la ejecución del programa y determinar los valores finales del Acumulador, la dirección de memoria A12, el registro MDR y el registro IP.
+- **Simulación Paso a Paso:**
+    
+    1. **`LDA A10` (Dirección 000):**
+        
+        - **Acción:** Carga el contenido de Memoria[A10] en el Acumulador.
+        - **Acumulador:** A35Eh
+        - **IP:** 001 (se actualiza para la siguiente instrucción)
+        - **MDR:** A35Eh (dato leído de memoria)
+        
+    2. **`ANA A11` (Dirección 001):**
+        
+        - **Acción:** Realiza una operación AND bit a bit entre el Acumulador y el contenido de Memoria[A11]. El resultado se guarda en el Acumulador.
+        - **Acumulador (A35Eh AND A3A1h):**
+            
+            - A35E = 1010 0011 0101 1110
+            - A3A1 = 1010 0011 1010 0001
+            - Resultado = 1010 0011 0000 0000 = A300h
+            
+        - **Acumulador:** A300h
+        - **IP:** 002
+        - **MDR:** A3A1h (dato leído de memoria)
+        
+    3. **`CMA` (Dirección 002):**
+        
+        - **Acción:** Complementa (invierte todos los bits) el contenido del Acumulador.
+        - **Acumulador (NOT A300h):**
+            
+            - A300 = 1010 0011 0000 0000
+            - NOT A300 = 0101 1100 1111 1111 = 5CFFh
+            
+        - **Acumulador:** 5CFFh
+        - **IP:** 003
+        - **MDR:** (No cambia, no hay acceso a memoria)
+        
+    4. **`STA A12` (Dirección 003):**
+        
+        - **Acción:** Almacena el contenido del Acumulador en la dirección de memoria A12.
+        - **Memoria[A12]:** 5CFFh
+        - **Acumulador:** 5CFFh (mantiene su valor)
+        - **IP:** 004
+        - **MDR:** 5CFFh (dato a escribir en memoria)
+        
+    5. **`HLT` (Dirección 004):**
+        
+        - **Acción:** Detiene la ejecución del programa.
+        - **IP:** 005 (Aunque el programa se detiene, el IP ya se actualizó para apuntar a la siguiente instrucción teórica).
+        - **MDR:** (No cambia)
+        
+    
+- **Valores Finales:**
+    
+    - **Acumulador:** 5CFFh
+    - **Memoria[A12]:** 5CFFh
+    - **MDR:** 5CFFh (último valor cargado para escritura)
+    - **IP:** 005h
     
 
-### **III. Consejos para Exámenes:**
+#### **3.6. Ejercicio 5: Promedio y Mostrar por Pantalla (Ejercicios de Assembler)**
 
-- **Dominar el Comportamiento de los Flip-Flops:** Es fundamental conocer las tablas de verdad y el funcionamiento de JK, T y D.
-- **Atención al Detalle:** En el análisis de circuitos, un error en un solo bit puede propagarse y arruinar todo el resultado. Prestar atención a los flancos de clock, las conexiones (Q vs. Q negado), y los estados _anteriores_ de las señales.
-- **Organización:** Al simular circuitos o programas, mantener un registro claro de los estados de los flip-flops, registros y memoria en cada paso.
-- **Teoría y Práctica:** Entender los conceptos teóricos (sincrónico/asincrónico, tipos de contadores, registros de la Computadora X) y saber aplicarlos en ejercicios prácticos.
-- **Revisar Material de Clase:** Los PowerPoints y ejemplos vistos en clase son una fuente invaluable de información y ejemplos resueltos.
+- **Contexto:** Sumar dos números de memoria, calcular su promedio y almacenar/mostrar el resultado.
+- **Conceptos Clave:**
+    
+    - **Suma:** `ADD` (suma el contenido de una dirección de memoria al acumulador).
+    - **División:** No hay instrucción directa de división. Se simula con desplazamientos a la derecha (`SHR`) para dividir por potencias de 2. Para promedio de 2 números, se divide por 2 (un `SHR`).
+    - **Almacenar:** `STA` (almacena el acumulador en memoria).
+    - **Mostrar por Pantalla:** `OUT` (muestra el contenido del acumulador por el dispositivo de salida, generalmente la pantalla).
+    
+- **Estructura General del Programa (Pseudocódigo):**
+```sh
+LDA  NUM1      ; Cargar primer número en acumulador
+ADD  NUM2      ; Sumar segundo número al acumulador (ACC = NUM1 + NUM2)
+SHR            ; Dividir por 2 (ACC = (NUM1 + NUM2) / 2)
+STA  RESULTADO ; Almacenar el promedio en memoria
+OUT            ; Mostrar el promedio por pantalla
+HLT            ; Fin del programa
+```
+
+#### **3.7. Ejercicio 6: Leer, Sumar y Multiplicar por 5 (Ejercicios de Assembler)**
+
+- **Contexto:** Leer un dato del teclado, sumarlo a un valor de memoria, multiplicar el resultado por 5 y almacenar.
+- **Conceptos Clave:**
+    
+    - **Leer del Teclado:** `INP` (lee un dato del teclado y lo guarda en el acumulador).
+    - **Multiplicación por 5:** No hay instrucción directa de multiplicación. Se simula con desplazamientos y sumas.
+        
+        - Multiplicar por 5 = Multiplicar por 4 + Multiplicar por 1.
+        - Multiplicar por 4 = `SHL` (desplazamiento a la izquierda) dos veces.
+        - Multiplicar por 1 = El número original.
+        
+    
+- **Estructura General del Programa (Pseudocódigo):**
+```sh
+INP            ; Leer dato del teclado (ACC = dato_teclado)
+STA  TEMP      ; Guardar dato_teclado temporalmente
+ADD  VALOR_MEM ; Sumar valor de memoria (ACC = dato_teclado + VALOR_MEM)
+STA  NUM_ORIG  ; Guardar el resultado (X) para la multiplicación
+SHL            ; Multiplicar X por 2 (ACC = X * 2)
+SHL            ; Multiplicar X por 4 (ACC = X * 4)
+ADD  NUM_ORIG  ; Sumar el número original (ACC = (X * 4) + X = X * 5)
+STA  RESULTADO ; Almacenar el resultado final
+HLT            ; Fin del programa
+```
+
+#### **3.8. Ejercicio 7: Comparación de Números y Saltos Condicionales (Ejercicios de Assembler)**
+
+- **Contexto:** Comparar dos números en memoria y saltar a diferentes secciones de código según si son iguales, mayor o menor.
+- **Conceptos Clave:**
+    
+    - **Comparación:** Se realiza restando los números y analizando el resultado en el acumulador.
+        
+        - Si A - B = 0, entonces A = B.
+        - Si A - B > 0, entonces A > B.
+        - Si A - B < 0, entonces A < B.
+        
+    - **Instrucciones de Salto Condicional:**
+        
+        - `JMPZ` (Jump if Zero): Salta si el acumulador es cero.
+        - `JMPN` (Jump if Negative): Salta si el acumulador es negativo.
+        - `JMP` (Jump Unconditional): Salto incondicional.
+        
+    
+- **Estructura General del Programa (Pseudocódigo):**
+```sh
+LDA  NUM1      ; Cargar NUM1 en acumulador
+SUB  NUM2      ; Restar NUM2 (ACC = NUM1 - NUM2)
+
+JMPZ IGUALES    ; Si ACC es 0, saltar a IGUALES (NUM1 == NUM2)
+JMPN MENOR      ; Si ACC es negativo, saltar a MENOR (NUM1 < NUM2)
+JMP  MAYOR      ; Si no es 0 ni negativo, es positivo, saltar a MAYOR (NUM1 > NUM2)
+
+IGUALES:
+    ; Código para cuando NUM1 == NUM2
+    HLT
+
+MENOR:
+    ; Código para cuando NUM1 < NUM2
+    HLT
+
+MAYOR:
+    ; Código para cuando NUM1 > NUM2
+    HLT
+```
+
+---
+
+### **4. Lecciones Aprendidas y Consejos para Exámenes**
+
+- **Importancia de la Atención al Detalle:** En los ejercicios de contadores, un pequeño error en el seguimiento de estados o en la aplicación de las reglas de los flip-flops puede llevar a un resultado completamente incorrecto.
+- **Dominio de los Flip-Flops:** Es fundamental conocer el comportamiento de cada tipo de flip-flop (JK, T, D) en sus diferentes modos (SET, RESET, Conmutación, Mantenimiento) y cómo reaccionan a los flancos de clock (positivo/negativo).
+- **Análisis de Circuitos:**
+    
+    - **Sincrónicos:** Analizar todos los flip-flops simultáneamente en cada flanco de clock. Es útil escribir los estados intermedios directamente en el circuito.
+    - **Asincrónicos:** Analizar secuencialmente, primero el flip-flop que recibe el clock principal, y luego los siguientes basándose en las salidas de los anteriores. El diagrama de tiempo es muy útil aquí.
+    
+- **Registros:** Entender la diferencia entre registros paralelos (todos los bits se cargan/leen a la vez) y en serie (los bits se cargan/leen uno a uno).
+- **Computadora X (Assembler):**
+    
+    - **Conceptos Teóricos:** Conocer el tamaño de los registros de datos y direcciones, el formato de las instrucciones y la capacidad de memoria.
+    - **Simulación de Programas:** Practicar la ejecución paso a paso de programas en assembler, siguiendo los cambios en el Acumulador, IP, MDR y las direcciones de memoria.
+    - **Instrucciones Clave:** Familiarizarse con las instrucciones básicas (LDA, STA, ADD, SUB, CMA, INP, OUT, HLT, JMP, JMPZ, JMPN, SHL, SHR) y sus efectos en los registros y la memoria.
+    - **Simulación de Operaciones Complejas:** Entender cómo simular operaciones como multiplicación/división (usando SHL/SHR y ADD/SUB) y comparaciones (usando SUB y saltos condicionales).
+    
+- **Uso de Herramientas:** Aunque no se simule en un software, entender cómo se usarían herramientas como Visio para dibujar circuitos.
+- **Preguntas de Examen:** Es probable que se pidan:
+    
+    - Identificación de tipo de contador (sincrónico/asincrónico).
+    - Código de cuenta y módulo de un contador.
+    - Simulación de pequeños programas en assembler y determinación de valores finales de registros/memoria.
+    - Preguntas teóricas sobre la arquitectura de la Computadora X.
+    - No se esperan ejercicios de simulación de contadores con más de 4 flip-flops en un examen, pero la práctica con ellos ayuda a entender los conceptos.

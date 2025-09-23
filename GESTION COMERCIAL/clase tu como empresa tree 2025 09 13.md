@@ -1,0 +1,93 @@
+xd
+```md
+- TÚ COMO EMPRESA Y GESTIÓN COMERCIAL PARA INGENIEROS Y PROFESIONALES EMPRESARIOS
+    - INTRODUCCIÓN: EL PROFESIONAL COMO EMPRESA
+        - Contexto de Mercado Actual
+            - Volatilidad, complejidad, incertidumbre (VUCA/VICA)
+            - Globalización y digitalización (posibilidad de vender globalmente)
+            - Necesidad de constante adaptación (Darwiniano full)
+            - La Inteligencia Artificial (IA) como oportunidad/amenaza
+        - El Concepto "El Mejor Negocio Eres Tú" (Reid Hoffman, creador de LinkedIn, PayPal)
+            - Desarrollo personal y plan de carrera
+            - Enfoque de "nosotros como empresa" (de servicio)
+            - Motivaciones para el desarrollo profesional (dinero, prestigio, referente, impacto social)
+            - Importancia de lo no material (sentirse completo)
+    - PILARES DE LA COMPETITIVIDAD PROFESIONAL (Modelo de Reid Hoffman)
+        - 1. ASPIRACIONES
+            - Definición: Deseos más profundos, misión y visión personal
+            - Valores: Honestidad, ética, no tomar atajos
+            - Visión a futuro: ¿Dónde me veo en 5 años? (ej. codeando a los 50 vs. CTO/Product Manager)
+            - Equilibrio entre "ser" y "tener"
+            - La "pesadez" (trabajo duro) vs. la "liviandad" (fluir)
+            - La pasión y el mercado (¿el mercado paga por mi pasión?)
+            - Las carreras profesionales rara vez son el "Plan A" (ej. historia del orador)
+        - 2. ACTIVOS
+            - Definición: Lo que poseemos y nadie puede quitarnos
+            - Tipos de Activos
+                - Tangibles: Dinero, bienes (auto, casa, inversiones)
+                - Intangibles: Conocimiento, experiencia, habilidades (soft skills), prestigio
+            - Importancia de los Activos Intangibles
+                - Permiten resolver problemas
+                - Generan mayor competitividad (estar un paso adelante)
+                - Son dinámicos (lo que es de moda hoy, mañana no)
+                - Necesidad de especialización vs. generalización (quereristas vs. generalistas)
+                - Ejemplo: Especialización en Cobol (nicho, poca oferta, alto precio, mercado chico)
+                - Ejemplo: Ingeniero de datos (saturación vs. demanda, diferencial en entender el negocio)
+                - Idiomas como activo intangible (ej. mandarín, alemán para mercados específicos)
+            - FODA Personal (Debilidades, Oportunidades, Fortalezas, Amenazas)
+                - Ejemplo: No saber inglés (debilidad que limita el mercado y el ascenso)
+                - Transformar debilidades en fortalezas (aprender inglés)
+                - Financiamiento del desarrollo (charlas gratuitas, intercambio de idiomas)
+        - 3. REALIDADES DE MERCADO
+            - Definición: Entender el entorno para vender bien nuestro servicio/persona
+            - La pregunta clave: "¿Por qué me van a elegir a mí sobre otros?" (Diferenciación)
+            - Comparación con la venta de productos/servicios (calidad, precio, especialización)
+            - Entender lo que busca el "tomador de decisión final" (ej. el más barato vs. el de alta calidad)
+            - Nichos de mercado (ej. ingeniero de datos en bancos)
+            - Visión de Negocio: Clave para agregar valor y diferenciarse (ej. ingeniero de datos que entiende el negocio vs. solo técnico)
+            - Estar atento a las "olas" del mercado (ej. IA, streaming)
+            - Fuentes de información para entender el mercado (Gardner Group, Revista Mercado)
+    - ESTRATEGIAS PARA EL DESARROLLO PROFESIONAL Y LA GESTIÓN COMERCIAL PERSONAL
+        - Prioridad al Aprendizaje
+            - "Lo escucho y lo olvido, lo veo y lo recuerdo, lo hago y lo aprendo." (Confucio)
+            - "Si lo enseño, lo recontraprendo." (Aporte del orador)
+            - La canción "El Eterno Aprendiz" (Cuarteto de Nos)
+            - La creatividad interna del ingeniero de sistemas (ej. Roberto Musso)
+        - Identidad Profesional y Visibilidad
+            - Tu identidad es independiente de la empresa
+            - LinkedIn como vidriera profesional
+            - Importancia de la visibilidad (publicar artículos, participar activamente)
+            - Entender el algoritmo de las plataformas (horarios de publicación)
+            - Ser un referente en un tema (que te pidan consejo)
+        - La Red de Contactos (Networking)
+            - Contactos Directos (lazos fuertes): 10-15 personas (familia, amigos cercanos, compañeros de proyecto)
+            - Lazos Débiles: Ex-compañeros, conocidos, contactos de LinkedIn
+            - Importancia de los lazos débiles: Mayor probabilidad de conseguir trabajo/oportunidades
+            - Estrategias para construir la red:
+                - Mantener contacto con ex-compañeros/profesores
+                - Participar en hobbies (conectar por pasiones)
+                - Acercarse a referentes (pedir consejos, mostrar interés)
+                - Generar reciprocidad (dar sin esperar, un pequeño gesto)
+                - "Gestionar hacia arriba" (management up): Visibilidad con jefes de otros departamentos, directores
+            - El "mundo es chico": Dos niveles de separación para contactar a alguien importante
+            - Técnicas para "abrir puertas" (ej. felicitar por un artículo, expresar intriga)
+            - La curiosidad como motor para buscar oportunidades (ej. querer trabajar en Mercado Libre)
+        - Gestión de la Carrera y Oportunidades
+            - No esperar que RRHH haga tu plan de carrera
+            - Tomar riesgos (salir de la zona de confort)
+            - Buscar oportunidades en empresas multinacionales (movilidad internacional, idiomas)
+            - La ambición (cuánto se puede ser "sombra" del jefe)
+            - El "privilegio" (poder, prestigio, rango) y el choque de egos
+            - Ser curioso, pasión, energía: Cualidades valoradas en un profesional
+            - Habilidades Blandas (Soft Skills) como Activo Intangible Clave
+                - Importancia creciente en niveles jerárquicos superiores
+                - Saber hacer preguntas (clave para negociación, entender necesidades)
+                - Practicar la comunicación efectiva (teatro, dar clases)
+                - Storytelling para captar atención
+        - Reflexiones Finales
+            - "Nunca firmes cosas. Siempre pregunta." (Parafrasear para confirmar)
+            - La vida profesional como un balance entre "pesadez" y "liviandad"
+            - La importancia de tener un "Plan B" o incluso un "Plan Z"
+            - Buscar lo que a uno le llena, incluso si el mercado no lo paga directamente (hobby)
+            - La posibilidad de reconvertirse y seguir aprendiendo (ej. ingeniero de sistemas que se vuelve escritor)
+```

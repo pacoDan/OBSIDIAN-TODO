@@ -1,0 +1,82 @@
+xd
+```md
+- GESTIÓN DE LA TRANSFORMACIÓN ORGANIZACIONAL
+    - Introducción a la Clase
+        - Temática principal: Diversidad
+        - Herramientas de apoyo: PPT/PDF, Notebook LM (IA para resúmenes/podcasts)
+        - Actividad práctica: Plan estratégico de consultoría para empresa "Tex Solution"
+            - Enfoque: Diversidad generacional, funcional, de género
+            - Componentes: Diagnóstico, Propuesta de solución, Mecanismos de evaluación
+    - DIVERSIDAD EN LAS ORGANIZACIONES
+        - Conceptos Fundamentales
+            - Diferencia entre Diversidad e Inclusión
+        - Tipos de Diversidad (Ejes de análisis para el caso práctico)
+            - Diversidad de Género
+                - Conceptos: Masculino, Femenino, No Binario
+                - Barreras:
+                    - Segregación vertical (Techo de cristal)
+                    - Segregación horizontal (Paredes de cristal)
+                - Herramientas políticas: Discriminación positiva (temporal)
+            - Diversidad Generacional
+                - Generaciones: Baby Boomers, Generación X, Millennials (Y), Generación Z, Generación Alfa
+                - Gestión: Valorar experiencia, independencia, creatividad, dominio tecnológico
+                - Estrategias: Comunicación y feedback, formación personalizada (mentoría inversa), fomento de pertenencia
+            - Diversidad Cultural
+                - Alcance: Etnia, nacionalidad, religión, edad, orientación sexual, política
+                - Beneficios: Más visiones, soluciones creativas, acceso a mercados internacionales, aprendizaje interno, mejora de imagen, fortalecimiento de equipo
+                - Desafíos: Idioma, reticencias al cambio, costumbres distintas, roces
+                - Ideas para manejar: Proceso de acogida, diálogo, búsqueda de consensos, respeto de costumbres, adaptación de liderazgo, formación para evitar discriminación, sobrecomunicación
+            - Diversidad Funcional
+                - Definición: Personas con capacidades físicas, mentales, intelectuales o sensoriales distintas a largo plazo
+                - Impacto social: La sociedad acentúa los efectos de la diversidad (barreras)
+                - Datos: Alto porcentaje de personas con discapacidad sin trabajo
+                - Marco legal: Cupos (sector público), incentivos económicos y fiscales (sector privado)
+            - Diversidad Sexual y de Género
+                - Definición: Término paraguas inclusivo (sexos, orientaciones, identidades)
+                - Importancia: Reconocer, respetar, valorar, crear espacio seguro
+        - Beneficios de la Gestión de la Diversidad (Resumen)
+            - Atracción y retención de talento
+            - Aumento de adaptabilidad
+            - Impulso a la creatividad e innovación
+            - Mejora de decisiones
+            - Ejecución más efectiva
+            - Empresas más fuertes, innovadoras y conectadas
+        - Reflexión Final de la Profesora
+            - "Diversidad es que te inviten a la fiesta, inclusión es que te saquen a bailar."
+            - Conciencia sobre barreras sutiles, microsesgos e interseccionalidad
+    - GESTIÓN DEL CAMBIO ORGANIZACIONAL (Implícito en el caso práctico y discusiones)
+        - Diagnóstico de Problemas en el Equipo (Proyecto Nexus)
+            - Conflictos internos, comunicación ineficaz, progreso lento
+            - Falta de diversidad e inclusión
+            - Desproporción de género (1 mujer vs 6 hombres)
+            - Impacto de sesgos inconscientes
+            - Liderazgo obsoleto (comando y control)
+            - Choque generacional (Baby Boomers vs Generación Z/Millennials)
+            - Falta de soft skills en el liderazgo
+        - Propuestas de Solución (Discutidas por los grupos)
+            - Fomentar la diversidad de género (contratación, promoción, visibilidad)
+            - Capacitación en liderazgo ágil y soft skills para el gestor de proyectos
+            - Implementación de metodologías ágiles (dailies, retros)
+            - Programas de mentoría cruzada (inversa y tradicional)
+            - Generación de espacios de feedback (one-on-one, encuestas anónimas, feedback 360)
+            - Actividades de team building y celebración de logros
+            - Rotación de roles de liderazgo en reuniones (ej. dailies)
+            - Creación de espacios para que los jóvenes lideren proyectos pequeños
+            - Reuniones con gerentes transversales para feedback
+            - Considerar cambios de equipo si no hay adaptación del líder
+            - Incorporar una persona con fuertes soft skills
+            - Estrategias para la jubilación de Baby Boomers (cubrir cupos con mujeres)
+            - Talleres de sensibilización sobre sesgos inconscientes y equidad de género
+        - Mecanismos de Evaluación (Métricas)
+            - Encuestas anónimas de clima laboral (percepción de inclusión, equidad, comunicación)
+            - Porcentaje de participación activa en reuniones por género y generación
+            - Reducción de rotación y ausentismo
+            - Feedback 360 al gestor del proyecto (medir cambio de estilo)
+            - Número de decisiones tomadas en equipo vs. centralizadas
+            - Medición de productividad (ej. historias por sprint, resolución de errores, cumplimiento de plazos)
+            - Seguimiento de la satisfacción y pertenencia del equipo (ej. por quarter)
+    - HERRAMIENTAS Y METODOLOGÍAS
+        - Notebook LM (IA para resúmenes/podcasts)
+        - Chat GPT / Gemini (IA para asistencia en tareas)
+        - Metodologías Ágiles (implícitas en soluciones)
+```

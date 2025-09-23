@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d544feddea178be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd61065eb8eaefd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "notas gerente general sallenave 2025 04 16 super ok"
+            }
+          },
+          {
+            "id": "2e7ef7fb6a7d272d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/cap 1 al 9 libro.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cap 1 al 9 libro"
+            }
+          },
+          {
+            "id": "2a5746e4a91bcc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/notas liderazgo teoria de los rasgos teorias emergentes 2025 04 23 ok ok.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "notas liderazgo teoria de los rasgos teorias emergentes 2025 04 23 ok ok"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1b41b8ed1899bc53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5124969482422
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de notas gerente general sallenave 2025 04 16 super ok"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de radioenlace v4"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de radioenlace v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2e7ef7fb6a7d272d",
+  "lastOpenFiles": [
+    "ADMIN GERENCIAL/notas liderazgo teoria de los rasgos teorias emergentes 2025 04 23 ok ok.md",
+    "PROMPT.md",
+    "ADMIN GERENCIAL/cap 1 al 9 libro.md",
+    "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+    "ADMIN GERENCIAL/tachini negociacion, comunicacion motivacion.md",
+    "ADMIN GERENCIAL/clase.md",
+    "ADMIN GERENCIAL/tachini - dinamica liderazgo y motivacion maslow y hesberg.md",
+    "ADMIN GERENCIAL/motivacion.md",
+    "ADMIN GERENCIAL/notas  planeamiento estratégico (importante) 2025 06 04.md",
+    "ADMIN GERENCIAL/Motivación, Comunicación y Negociación en la Gerencia  clase 2025 04 30.md",
+    "ADMIN GERENCIAL/notas matriz portfolio FODA ventaja competitiva estrategias 2025 06 11 19 03 26.md",
+    "GESTION COMERCIAL/clase 4 KPIs e inteligencia emocional.md",
+    "ADMIN GERENCIAL/mecanicismo organicismo dinamicas teoria de la contingencia.md",
+    "GESTION COMERCIAL/clase 4 2025-09-06.md",
+    "ALAMESA.md",
+    "_COSILLAS/android/alternativas a Android-x86 para emular android.md",
+    "BOMBA DE AGUA.md",
+    "CONFIGURACION OBSIDIAN.md",
+    "Pasted image 20250821205827.png",
+    "README.md.md",
+    "Sin título.md",
+    "Sin título 1.md",
+    "GESTION COMERCIAL/clase 3.md",
+    "GESTION COMERCIAL/clase 1.md",
+    "GESTION COMERCIAL/clase 2 marketshare.md",
+    "GESTION COMERCIAL/clase 2, revisar formulas con la ppt.md",
+    "GESTION COMERCIAL/parciales.md",
+    "_COSILLAS/windows 8",
+    "_COSILLAS",
+    "ECONOMICAS/DOLAR EN BOLIVIA",
+    "AECH",
+    "GTH",
+    "PORTAL CAUTIVO",
+    "TERMINAL",
+    "PENTESTING",
+    "ELIXIR",
+    "ADMIN GERENCIAL/capturas/Pasted image 20250409195904.png",
+    "LEGISLACION"
+  ]
+}
