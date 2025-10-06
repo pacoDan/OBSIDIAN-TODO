@@ -93,3 +93,4 @@ y los requisitos para delegar
 - Monitorear la actividad delegada
 - Evaluar la delegación
 ![[Pasted image 20250622163426.png]]
+

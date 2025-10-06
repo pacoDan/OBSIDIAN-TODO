@@ -5,3 +5,26 @@ Estructura bien esta transcripción, recopila todas las preguntas y respuestas p
 - cambio en la cultura y la manera de trabajar
 - por que no migran a digitalización
 - condiciones del rollplay
+
+
+
+
+TTS voces
+
+
+https://www-videosdk-live.translate.goog/developer-hub/ai/edge-tts?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
+
+https://tts.travisvn.com
+es-MX-DaliaNeural
+es-AR-ElenaNeural
+
+es-ES-AlvaroNeural
+es-ES-ElviraNeural
+es-ES-XimenaNeural
+
+
+https://www.tts.best
+
+
+
+

@@ -1,0 +1,1 @@
+estructura mejor todo el contenido de esta transcripción que es para actuarios e ingenieros inversiones y especialistas económicos, elabora preguntas y respuestas  a modo de  examen: sobre analisis tecnico  y financiacion con tipos de prestamos
