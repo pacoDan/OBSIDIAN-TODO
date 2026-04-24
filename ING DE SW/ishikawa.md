@@ -1,0 +1,1 @@
+Es importante destacar que el diagrama se enfoca en resolver **un único problema por vez**, el cual se sitúa en la "cabeza" de la estructura. El cuerpo del "pescado" se compone de diversas categorías o "espinas" que agrupan las posibles fuentes del fallo, tales como el **equipo, las personas, el medio ambiente, los métodos y los materiales**.

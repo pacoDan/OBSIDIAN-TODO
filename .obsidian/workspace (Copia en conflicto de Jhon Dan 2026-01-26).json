@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "5111058efb9ecca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7be0039eb26fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/docker  imagenes dockerhub servers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "docker  imagenes dockerhub servers"
+            }
+          },
+          {
+            "id": "c04a12826276ae7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/ssh scp copiar archivos por ssh.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ssh scp copiar archivos por ssh"
+            }
+          },
+          {
+            "id": "3d9b0887a790833a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/ssh scp copiar archivos por ssh.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ssh scp copiar archivos por ssh"
+            }
+          },
+          {
+            "id": "99a44b8edef3db8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/dotnet prueba técnica conteo de palabras.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "dotnet prueba técnica conteo de palabras"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a6cd8b7782ac4b",
+        "type": "tabs",
+        "dimension": 26.881720430107524,
+        "children": [
+          {
+            "id": "1b41b8ed1899bc53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "dimension": 73.11827956989248,
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "scp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5ba4cfd017c063c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 512.5
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DDS-Notas/MyMusic/Cómo utilizar el Service Worker con Reactjs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cómo utilizar el Service Worker con Reactjs"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DDS-Notas/MyMusic/Cómo utilizar el Service Worker con Reactjs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Cómo utilizar el Service Worker con Reactjs"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DDS-Notas/MyMusic/Cómo utilizar el Service Worker con Reactjs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cómo utilizar el Service Worker con Reactjs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "bases:Crear nueva base": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "99a44b8edef3db8a",
+  "lastOpenFiles": [
+    "_COSILLAS/DOTNET BLAZOR tipos de pruebas tecnicas ejemplos.md",
+    "_COSILLAS/dotnet prueba técnica conteo de palabras.md",
+    "_COSILLAS/android/instalacion de variables de entornos ok.md",
+    "_COSILLAS/ssh scp copiar archivos por ssh.md",
+    "_COSILLAS/docker  imagenes dockerhub servers.md",
+    "TERMINADAS/NO SQL/alternativas a ngrok para acceder a bases de datos, túnel inverso para exponer servicios locales al exterior.md",
+    "docker imagenes",
+    "_COSILLAS/ELIXIR/alternativas a termius y explorer.md",
+    "COMU/clase 1.md",
+    "_COSILLAS/12v a 5v.md",
+    "_COSILLAS/android/deploy y generacion de claves para app android.md",
+    "SDG/_ aux preguntas varias.md",
+    "DDS-Notas/MyMusic/Cómo utilizar el Service Worker con Reactjs.md",
+    "ARQ pendientes a gdrive/Nazareno Gago y Gonzalo Irusta alumnos situacion.md",
+    "COMU",
+    "PROMPT.md",
+    "_COSILLAS/ESP 32/blink ok.md",
+    "_COSILLAS/Esp32/Esp 32 notas.md",
+    "_COSILLAS/MERCURIAL.md",
+    "_COSILLAS/ESP 32/sdkconfig ok.md",
+    "_COSILLAS/miracast en PC.md",
+    "_COSILLAS/android/comandos utiles.md",
+    "_COSILLAS/ESP 32/notas.md",
+    "_COSILLAS/variables de entorno esp 32.md",
+    "_COSILLAS/ESP 32/CONEXION Y PUERTO.md",
+    "_COSILLAS/ESP 32/conexion.md",
+    "_COSILLAS/ESP 32/Caracteristicas del esp32.md",
+    "_COSILLAS/PS2 correspondencia e isomorfirmo.md",
+    "Pasted image 20251220182714.png",
+    "ING DE SW",
+    "CURSO REPARACION",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/pa mi jefita gametrack.pdf",
+    "DDS-Notas/SO/apuntes fotos/Pasted image 20250128150044.png",
+    "DDS-Notas/Arquitectura_ Primeros Pasos.pdf",
+    "DDS-Notas/Parciales resueltos/2dos parciales/Ride Me/capturas/Pasted image 20241220091107.png",
+    "DDS-Notas/Arduino/capturas/Pasted image 20241223141019.png",
+    "TERMINADAS",
+    "ARQ pendientes a gdrive/corregidos",
+    "GTH/2do Parcial",
+    "ADMIN GERENCIAL/2DO PARCIAL",
+    "Pasted image 20251020170629.png",
+    "SDG/Pasted image 20250717024033.png",
+    "SDG/Pasted image 20250717024029.png",
+    "SDG/Pasted image 20250717024006.png",
+    "SDG/Pasted image 20250715020153.png",
+    "SDG/Pasted image 20250715015959.png"
+  ]
+}

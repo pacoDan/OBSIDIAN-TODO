@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fed8c1db8e31f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2eed79d95419e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/2DO PARCIAL/admin gerencial ultima clase 2025 10 30 19 06 08.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "admin gerencial ultima clase 2025 10 30 19 06 08"
+            }
+          },
+          {
+            "id": "d77323be8851ae92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQ pendientes a gdrive/TP Unidad 9 Cap 17 Repertorio de Instrucciones.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TP Unidad 9 Cap 17 Repertorio de Instrucciones"
+            }
+          },
+          {
+            "id": "f16fb12fa80315b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQ pendientes a gdrive/corregidos/CORRECCION TP 3.5 Representacion UTF -8.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CORRECCION TP 3.5 Representacion UTF -8"
+            }
+          },
+          {
+            "id": "9f811b0830aae445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQ pendientes a gdrive/corregidos/CORRECCION TP 3.5 Representacion UTF -8.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CORRECCION TP 3.5 Representacion UTF -8"
+            }
+          },
+          {
+            "id": "104ce88b451d3e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQ pendientes a gdrive/corregidos/CORRECCION TP 4.1 Aritmetica del computador.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CORRECCION TP 4.1 Aritmetica del computador"
+            }
+          },
+          {
+            "id": "861b02ecbbff75db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTH/2do Parcial/GTH transformacion digital 2025 10 30 08 37 55.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "GTH transformacion digital 2025 10 30 08 37 55"
+            }
+          },
+          {
+            "id": "cca173c3026861ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROMPT.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PROMPT"
+            }
+          },
+          {
+            "id": "4fe2638baf3219fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/2DO PARCIAL/crono 2do parcial.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "crono 2do parcial"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"GTH/2do Parcial/\"  mal necesa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1b41b8ed1899bc53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5056800842285
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de notas gerente general sallenave 2025 04 16 super ok"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de radioenlace v4"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de radioenlace v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "cca173c3026861ef",
+  "lastOpenFiles": [
+    "GTH/2do Parcial/recopilaciones tranasformacion digital.md",
+    "GTH/2do Parcial/recopilacion ultima clase.md",
+    "GTH/2do Parcial/recopilacion gerencia RRHH.md",
+    "PROMPT.md",
+    "GTH/2do Parcial/GTH entrepeneuor 2025 11 06 08 37 37.md",
+    "GTH/2do Parcial/GTH transformacion digital 2025 10 30 08 37 55.md",
+    "ARQ pendientes a gdrive/TP Unidad 9 Cap 17 Repertorio de Instrucciones.md",
+    "ARQ pendientes a gdrive/corregidos/CORRECCION TP 5.1 algebra de boole.md",
+    "ARQ pendientes a gdrive/corregidos/CORRECCION TP 4.1 Aritmetica del computador.md",
+    "ARQ pendientes a gdrive/corregidos/CORRECCION TP 3.5 Representacion UTF -8.md",
+    "ARQ pendientes a gdrive/corregidos",
+    "GTH/2do Parcial/GTH gerencia de RRHH 2025 10 23 08 52 24.md",
+    "GTH/2do Parcial/temas.md",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/presentacion borrador.md",
+    "GTH/Sin título 1.md",
+    "GTH/2do Parcial",
+    "ADMIN GERENCIAL/2DO PARCIAL/preguntas.md",
+    "ADMIN GERENCIAL/2DO PARCIAL/admin gerencial ultima clase 2025 10 30 19 06 08.md",
+    "ADMIN GERENCIAL/2DO PARCIAL/crono 2do parcial.md",
+    "ADMIN GERENCIAL/2DO PARCIAL/admin gerencial poder delegación 2025 10 02 19 07 46.md",
+    "ADMIN GERENCIAL/2DO PARCIAL/admin gerencial estrategias Porter matriz bcg 2025 10 16 19 05 45.md",
+    "ADMIN GERENCIAL/2DO PARCIAL/admin gerencial ética y moral, tp poder y delegación 2025 10 09 19 05 55.md",
+    "ADMIN GERENCIAL/etica moral.md",
+    "AECH/notas AECH clase 1 que es trabajo 2025 08 22.md",
+    "ADMIN GERENCIAL/dinamica negociacion grupales de equipos.md",
+    "ADMIN GERENCIAL/aux prompt.md",
+    "AECH/evolucion de trabajo.md",
+    "ADMIN GERENCIAL/2DO PARCIAL",
+    "Note Narration Audio/evolucion de trabajo - 30 oct 2025 19-19.mp3",
+    "Note Narration Audio/evolucion de trabajo - 30 oct 2025 19-18.mp3",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/2do parcial/GTO inteligencia emocional VICA holocracia 2025 10 13.md",
+    "gestion de la transformacion ultima clase 2025 10 20.pdf",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/2do parcial",
+    "Pasted image 20251020170629.png",
+    "Note Narration Audio/segmentos - tipos de segmentos - 01 oct 2025 21-45.mp3",
+    "Note Narration Audio",
+    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-44.mp3",
+    "SDG/Pasted image 20250717024033.png",
+    "SDG/Pasted image 20250717024029.png",
+    "SDG/Pasted image 20250717024006.png",
+    "SDG/Pasted image 20250715020153.png",
+    "SDG/Pasted image 20250715015959.png",
+    "SDG/prototipo/prototipo.png",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225195421.png",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225133342.png",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225133147.png"
+  ]
+}

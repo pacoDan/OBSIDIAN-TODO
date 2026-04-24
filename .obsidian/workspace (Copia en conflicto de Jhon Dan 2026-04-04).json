@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "e838ce9625939b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11730eb6ff2c37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARMADO Y REPARACION DE PC 2025/2025 tree clase 2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025 tree clase 2"
+            }
+          },
+          {
+            "id": "d5442c00ef23958d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/despachante de aduana ok.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "despachante de aduana ok"
+            }
+          },
+          {
+            "id": "48137b43c25b8a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDS-Notas/Sin título.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "e9e338d75356c037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDS-Notas/aux enunciados.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "aux enunciados"
+            }
+          },
+          {
+            "id": "a7f73d557e069a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDS-Notas/Archivos hacia S3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Archivos hacia S3"
+            }
+          },
+          {
+            "id": "b885176b676349d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_  NOTAS importantes DDS notas dds"
+            }
+          },
+          {
+            "id": "989e480faa09041a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DDS-Notas/relacion-agregacion.png"
+              },
+              "icon": "lucide-image",
+              "title": "relacion-agregacion"
+            }
+          },
+          {
+            "id": "17fa5638b2b1f356",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DDS-Notas/relacion-composicion.png"
+              },
+              "icon": "lucide-image",
+              "title": "relacion-composicion"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5ba4cfd017c063c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "89f7c7ab3de3ac3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _  NOTAS importantes DDS notas dds"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _  NOTAS importantes DDS notas dds"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _  NOTAS importantes DDS notas dds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "edge-tts:Read note aloud": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "584f9c1e3f19c269",
+  "lastOpenFiles": [
+    "DDS-Notas/relacion-agregacion.png",
+    "DDS-Notas/Pasted image 20250212183527.png",
+    "DDS-Notas/notas patrones.md",
+    "DDS-Notas/conceptos 2do parcial.md",
+    "DDS-Notas/Composicion y agregacion.md",
+    "DDS-Notas/Comparación  API Gateway vs Service Registry.md",
+    "DDS-Notas/Balanceador de carga vs API Gateway.md",
+    "DDS-Notas/aux requerimientos posibles.md",
+    "DDS-Notas/aux enunciados.md",
+    "DDS-Notas/Arquitectura_ Primeros Pasos.pdf",
+    "DDS-Notas/Sin título.md",
+    "DDS-Notas/RPA.md",
+    "DDS-Notas/relacion-composicion.png",
+    "DDS-Notas/Contexto Final.md",
+    "PROMPT.md",
+    "DDS-Notas/Tp 2024/Deploy y ssh.md",
+    "DDS-Notas/Tp 2024/ENTREGA FINAL.md",
+    "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
+    "DDS-Notas/Archivos hacia S3.md",
+    "DDS-Notas/combos xeon.md",
+    "DDS-Notas/Tp 2024",
+    "_COSILLAS/despachante de aduana ok.md",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/pa mi jefita gametrack.pdf",
+    "SO-sistemas operativos/SO/apuntes fotos/Pasted image 20250128150044.png",
+    "DDS-Notas/Parciales resueltos/2dos parciales/Ride Me/capturas/Pasted image 20241220091107.png",
+    "DDS-Notas/Arduino/capturas/Pasted image 20241223141019.png",
+    "SO-sistemas operativos/SO/apuntes fotos/Pasted image 20250128145957.png",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/Pasted image 20241214003547.png",
+    "DDS-Notas/NODE js IoT pub-sub con MQTT, testing y web sockets/capturas/Pasted image 20250108213659.png",
+    "SDG/prototipo/prototipo.png",
+    "MANTADARIO - GESTOR AUTOMOTOR/Programa - Curso Mandatario Registral Nacional del Automotor SAN MIGUEL.pdf",
+    "ADMIN GERENCIAL/_ self aux informe Ética y management en la era digital Privacidad, transparencia algorítmica y responsabilidad gerencial en un mundo cada vez más digital.md",
+    "_COSILLAS/Esp32/proyectos a realizar/ESP32-CAM_Audio-main.zip",
+    "DDS-Notas/Parciales resueltos/2dos parciales/Ride Me/[DDS -  UTN BA Martes] Consideraciones - Segundo Parcial - 2023.pdf",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/DDS UTN - 2023 - 1p Martes.pdf",
+    "DDS-Notas/arquitectura de software/dds final DataCat 20241207.pdf",
+    "DDS-Notas/DDS Finales/dds final datacat 20241207.pdf",
+    "DDS-Notas/Parciales resueltos/primer parcial/GTV/DDS UTN - 2023 - 1p Miércoles.pdf",
+    "GTH/Libro en md ok.md",
+    "SDG/sdg ejercicios de la Guía de Ejercicios con respuestas.V.1.6 R032025.md",
+    "ARMADO Y REPARACION DE PC 2025/2025 tree clase 3.md",
+    "_COSILLAS/android/self MVVM para MVCeros de spring.md",
+    "_COSILLAS/android/camera server para usar celular de camata.md",
+    "_COSILLAS/android/self reconocedor de voz.md",
+    "_COSILLAS/_aux 14 de marzo.md"
+  ]
+}

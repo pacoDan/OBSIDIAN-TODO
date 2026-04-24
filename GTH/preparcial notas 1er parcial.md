@@ -1,3 +1,141 @@
+ESTRUCTURA Y DETALLES CLAVE DE LA TRANSCRIPCIÓN (GTH PREPARCIAL)
+
+I. Logística y Formato del Examen Parcial
+
+El parcial es una instancia de evaluación crucial, y los profesores insisten en entender la logística y los conceptos fundamentales para su aprobación.
+
+|   |   |
+|---|---|
+|Característica|Detalle y Referencia|
+|**Formato y Duración**|Es escrito, consta de 10 preguntas y tiene una duración estimada de una hora.|
+|**Tipo de Preguntas**|Incluye preguntas de desarrollo, Verdadero o Falso (sin necesidad de justificar), Multiple Choice, y preguntas de completar o unir conceptos con flechas.|
+|**Contenido**|Entra todo lo visto en clase hasta el día del parcial inclusive. No se tomará nada que no haya sido desarrollado en clase.|
+|**Puntaje y Aprobación**|Cada pregunta vale un punto. Para **aprobar**, se requiere un puntaje de **6**.|
+|**Régimen de Promoción**|Para acceder al régimen de promoción, se requiere una nota de **8 o más**. **Solo se puede recuperar un parcial** para mantener el régimen de promoción, pero ambas instancias deben estar aprobadas (con un 6 o más) y una debe tener 8 o más. Las notas no son promediables.|
+|**Advertencia**|Se debe contestar exactamente lo que se pregunta. En los Multiple Choice, todos los ítems deben estar correctos para sumar el punto. Es importante leer con detenimiento, ya que un "sí" o "no" en un párrafo puede cambiar la respuesta.|
+
+II. Preguntas Clave, Definiciones y Respuestas para Exámenes
+
+Los siguientes conceptos son recurrentemente mencionados como temas de parcial o instancias finales, y requieren una comprensión detallada para evitar errores comunes.
+
+1. Conceptos Fundamentales de CV y Postulación
+
+|   |   |
+|---|---|
+|Concepto|Detalle Crucial para el Examen|
+|**Remuneración Pretendida**|Debe ser siempre **bruta** (no neta). Se recomienda indagar en encuestas como Sisarmi para conocer el valor del mercado (posiciones Junior). Se debe pedir un monto específico, no "a convenir". Siempre es aconsejable pedir un poco más para tener margen de negociación.|
+|**Formato del CV**|Se debe enviar en **PDF** (no Word) para mantener la estructura y dificultar modificaciones.|
+|**Currículum Vitae (título)**|**No es necesario incluir el título** "Currículum Vitae" en el documento, ya que está sobreentendido.|
+|**Requisitos Excluyentes**|Si la publicación del puesto menciona requisitos excluyentes (como indicar la remuneración o disponibilidad horaria), **deben cumplimentarse**, de lo contrario, la postulación se descarta automáticamente.|
+|**Carta de Presentación**|La remuneración pretendida se incluye en el **tercer párrafo** de la carta. La carta debe ir acompañada del CV.|
+
+2. Conceptos de Entrevista Laboral y Comportamiento
+
+|   |   |
+|---|---|
+|Concepto|Detalle Crucial para el Examen|
+|**Debilidades / Puntos de Mejora**|No se debe decir que no se tiene ninguna. Se deben presentar como una **oportunidad de mejora** y que la persona se está ocupando activamente de esa debilidad (ej. "estoy perfeccionándome en inglés").|
+|**Honestidad**|Ser honesto es fundamental. Quien entrevista a menudo es un psicólogo entrenado para detectar mentiras o personajes inventados.|
+|**Postura**|El lenguaje corporal es clave, ya que constituye el **55%** de la comunicación. Las personas son evaluadas desde que entran a la empresa, incluso en la sala de espera. Evitar cruzar los brazos, ya que esto comunica un bloqueo o cerrazón.|
+|**Preguntas al Entrevistador**|Es importante preguntar sobre **cómo continúa el proceso de selección** y los plazos para tomar una decisión. También se debe preguntar sobre beneficios, si son relevantes.|
+
+3. Herramientas de Gestión del Talento (GTH Tools)
+
+|   |   |
+|---|---|
+|Herramienta|Definición Clave para el Examen|
+|**Outsourcing (Tercerización)**|Responsabilidad **no se delega**. Se utiliza para servicios complementarios, pero **nunca para el** **core** **del negocio** (el diferencial de la empresa).|
+|**Empowerment (Empoderamiento)**|Significa delegar el poder y la autoridad **para la toma de decisiones**. Responsabilidad **no se delega**. Quien implementa la herramienta sigue siendo responsable. Fortalece la reingeniería.|
+|**Outplacement**|Es un servicio de **reubicación externa**. Se aplica generalmente a mandos medios y gerenciales, ya que son los más difíciles de reubicar y han dedicado más tiempo a la organización.|
+|**Reingeniería**|Implica **repensar de manera fundamental los procesos y rediseñarlos radicalmente desde cero**. No es mejora continua ni automatización. Implica un alto riesgo y se buscan beneficios superiores al 70-80%.|
+|**Benchmarking**|Consiste en **comparar el desempeño de la empresa con líderes en el mercado**. No es copiar y pegar, sino adaptar la información a la cultura y estructura propia. El **Benchmarking Funcional** compara con empresas líderes de rubros totalmente diferentes (ejemplo: Starbucks y Toyota).|
+
+4. Conceptos de Aprendizaje y Organizaciones
+
+|   |   |
+|---|---|
+|Concepto|Detalle Crucial para el Examen|
+|**Aprendizaje**|Es un **cambio de conducta**. El aprendizaje se enfoca en el **individuo**.|
+|**Conducta vs. Comportamiento**|**Conducta** se refiere a las acciones del **individuo** (quien aprende y cambia). **Comportamiento** se refiere al **colectivo** u organizacional.|
+|**Ciclo de Kolb**|El aprendizaje es un proceso cíclico con cuatro etapas que deben darse en orden: **Hacer, Reflexionar, Pensar, Decidir**.|
+|**Employership (Claus Moller)**|Las organizaciones deben poner al **empleado primero**, y el empleado pondrá al cliente primero.|
+|**Acuario Administrativo**|Describe la tendencia de las organizaciones a centrarse únicamente en las cifras económicas (márgenes de venta) y a cambiar solo cuando las ventas descienden, en lugar de hacerlo proactivamente durante el crecimiento.|
+
+5. Bienestar Laboral
+
+|   |   |
+|---|---|
+|Concepto|Detalle Crucial para el Examen|
+|**Estrés**|Es una **respuesta natural y necesaria** del organismo para adaptarse a una nueva situación. Existe estrés positivo (eustrés) y estrés negativo (distrés).|
+|**Fatiga**|Sensación sostenida y abrumadora de cansancio con disminución de la capacidad física y mental.|
+|**Burnout (Síndrome de Cabeza Quemada)**|Se llega a este síndrome por la falta de atención al estrés negativo sostenido. Implica el deterioro de las relaciones, insomnio crónico y problemas cardiovasculares, con incapacidad para realizar tareas diarias. El cuerpo da señales que no deben ignorarse.|
+
+III. Lecciones Aprendidas y Consejos (Tips)
+
+1. Preparación para el Examen y Estudio
+
+• **No estudiar de memoria:** El material debe ser comprendido y entendido, especialmente para diferenciar conceptos (ej. educación, formación, capacitación).
+
+• **Tiempo de estudio:** No se debe intentar leer o estudiar el manual los dos días previos al parcial, ya que el cerebro necesita tiempo para generar sinapsis y asimilar el conocimiento.
+
+• **Recursos:** El manual es la base y debe complementarse con los ejemplos y discusiones dadas en clase. Se desaconseja el uso de resúmenes mágicos o de fuentes no verificadas, como los que circulan en portales de estudiantes, sin revisar el manual.
+
+• **Preguntar:** El momento de equivocarse y preguntar es durante la cursada, no afuera ni en el examen. Una pregunta que uno no se anima a hacer es la misma que 10 compañeros quieren hacer.
+
+2. Imagen Profesional, CV y Redes Sociales
+
+• **Imagen Online:** Las empresas buscan al candidato en redes sociales (LinkedIn, Facebook, Instagram, etc.). Es fundamental cuidar la imagen pública y ser consciente de la distinción entre lo público y lo privado.
+
+• **Primera Impresión:** "Nunca hay una segunda oportunidad para dar una primera buena impresión".
+
+• **Actualización:** Mantener el CV y el perfil de LinkedIn actualizados constantemente.
+
+• **Logros:** Evitar incluir logros de la escuela primaria poco significativos (ej. "mejor compañero").
+
+• **Remuneración (Beneficios):** La remuneración incluye el salario y todos los beneficios que rodean al puesto, como prepaga, descuentos en gimnasios, aportes para educación o capacitaciones. Estos deben ser evaluados en la ecuación salarial.
+
+• **Fotografía:** Si se incluye, debe ser de los hombros hacia arriba, con buena iluminación y fondo.
+
+3. Entrevista y Comunicación
+
+• **Rol en la Entrevista:** El entrevistado tiene el rol de ser entrevistado; el selector es quien conduce la charla.
+
+• **No Interrumpir:** Jamás se debe interrumpir al selector o entrevistador.
+
+• **Monólogo:** Evitar dar respuestas demasiado extensas que se conviertan en un monólogo.
+
+• **Prepárese para lo inesperado:** Las entrevistas grupales (Assessment Centers) evalúan competencias como liderazgo, trabajo en equipo y capacidad de resolver problemas.
+
+• **Llegada:** En una entrevista presencial, llegar con 15 minutos de anticipación es suficiente, no demasiado tiempo antes para evitar ansiedad innecesaria.
+
+• **Celular:** El celular debe estar apagado o silenciado (ni siquiera vibrando) durante la entrevista.
+
+• **Comunicación No Verbal:** Observar siempre los gestos en su conjunto, no de forma aislada. El volumen, tono y entonación conforman el **38%** de la comunicación.
+
+4. Presentaciones Eficaces
+
+• **Estructura:** La presentación debe seguir cuatro etapas: **Preparación, Apertura, Desarrollo y Resumen/Cierre**.
+
+• **Soporte:** El soporte (PowerPoint, Prezi) es solo una ayuda. Debe tener imágenes o frases clave (bullets), **no mucho texto**, para que el público se concentre en el orador.
+
+• **Ensayar:** Ensayar la presentación previamente, especialmente si es en equipo, es fundamental.
+
+• **Equipo:** Si es una presentación en equipo, todos deben conocer la presentación completa, no solo su parte, y deben apoyarse mutuamente si un compañero se queda en blanco.
+
+5. Evolución y Crecimiento Profesional
+
+• **Diversidad Generacional:** Es esencial entender el contexto generacional de cada colaborador (Baby Boomer, Generación X, Millennial, Z) para saber cómo motivarlos y gestionarlos. La diversidad enriquece a las organizaciones.
+
+• **Motivaciones Actuales:** Las nuevas generaciones buscan buen clima laboral, compensaciones que incluyan beneficios emocionales, y oportunidades de aprendizaje y desarrollo.
+
+• **Trabajo por Objetivos:** La tendencia es trabajar por objetivos, en lugar de medir por "horas silla".
+
+• **Efecto Pigmalión:** Creer que se puede lograr algo debe ir acompañado de **acción** (esfuerzo, cursos, participación) para que el objetivo se cumpla.
+
+
+---
+
+
 **Lecciones Aprendidas y Puntos Clave para el Parcial**
 
 A continuación se detallan los temas del curso, integrando la información de la transcripción, posibles preguntas de examen y las aclaraciones de los docentes.

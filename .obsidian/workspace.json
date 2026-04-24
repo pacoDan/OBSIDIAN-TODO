@@ -4,67 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "daed20b4c0078619",
+        "id": "e838ce9625939b7b",
         "type": "tabs",
         "children": [
           {
-            "id": "f101abe0b0ad8d74",
+            "id": "af49001fce2cddbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROMPT.md",
-                "mode": "preview",
+                "file": "PROMPT promt.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PROMPT"
+              "title": "PROMPT promt"
             }
           },
           {
-            "id": "34ca60fe58a4861f",
+            "id": "c16e2de4ebf2c50e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDS-Notas/vigilancia y  DVR simulacion/emuladores de DVR.md",
+                "file": "NEUROCIENCIA/clase 3.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "emuladores de DVR"
-            }
-          },
-          {
-            "id": "244cf96a5bffd47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTH/habilidades blandas y tecnicas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "habilidades blandas y tecnicas"
-            }
-          },
-          {
-            "id": "0ffd095fe8e89d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROMPT.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "PROMPT"
+              "title": "clase 3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "65a6213f7778b8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22939290cf099c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COSILLAS/ESP 32/consumo electrico consumo de kwh, medicion de consumo de energia.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "consumo electrico consumo de kwh, medicion de consumo de energia"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"GTH/\" marca personal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,20 +100,30 @@
             }
           },
           {
-            "id": "1b41b8ed1899bc53",
+            "id": "5ba4cfd017c063c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "89f7c7ab3de3ac3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5110321044922
+    "width": 267.5
   },
   "right": {
     "id": "55bd2488a8928069",
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de notas gerente general sallenave 2025 04 16 super ok"
+              "title": "Backlinks for _  NOTAS importantes DDS notas dds"
             }
           },
           {
@@ -156,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "radioenlace/radioenlace v4.md",
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de radioenlace v4"
+              "title": "Outgoing links from _  NOTAS importantes DDS notas dds"
             }
           },
           {
@@ -176,7 +178,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "radioenlace/radioenlace v4.md",
+                "file": "DDS-Notas/_  NOTAS importantes DDS notas dds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de radioenlace v4"
+              "title": "Outline of _  NOTAS importantes DDS notas dds"
             }
           }
         ]
@@ -203,63 +205,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "edge-tts:Read note aloud": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "244cf96a5bffd47f",
+  "active": "c16e2de4ebf2c50e",
   "lastOpenFiles": [
-    "GTH/clase 2 entrevista laboral.md",
-    "GTH/habilidades blandas y tecnicas.md",
-    "PROMPT.md",
-    "GTH/2025-09-11 gestos influir.md",
-    "GTH/Libro en md.md",
-    "GTH/empowerment y outsourcing.md",
-    "GTH/clase preparcial benchmarking.md",
-    "GTH/preparcial notas 1er parcial.md",
-    "GTH/organizacion que aprende.md",
-    "GTH/marca personal 2.0.md",
-    "SDG/sdg parque de impresoras.md",
-    "SDG/clase viernes tips 3 de octubre ejercicios desde audio.md",
-    "_COSILLAS/ffmpeg audio e imagen a video.md",
-    "Sin título 1.md",
+    "PROMPT promt.md",
+    "NEUROCIENCIA/clase 3.md",
+    "Sin nombre",
+    "CONFIGURACION OBSIDIAN.md",
+    "SO-sistemas operativos/File System Ejercicios.md",
+    "_COSILLAS/ESP 32/consumo electrico consumo de kwh, medicion de consumo de energia.md",
+    "_COSILLAS/ngrok RDP escritorio remoto conexion remoto.md",
+    "_COSILLAS/aux.md",
+    "DDS-Notas/notas patrones.md",
+    "Seminario Integrador/clase 2.md",
+    "README.md.md",
+    "NEUROCIENCIA/clase 1.md",
+    "_COSILLAS/NVIM/nvim de intellij idea parte 1.md",
+    "DDS-Notas/OK Ingenieria Inversa de plantUML a codigo.md",
+    "DDS-Notas/Ejercicio Macowins ok.md",
+    "_COSILLAS/NVIM/nvim lazyvim configuraciones.md",
+    "_COSILLAS/Sin título.md",
+    "_COSILLAS/NVIM",
+    "_COSILLAS/wine instalacion office ok.md",
+    "DDS-Notas/TPS bolerplates.md",
+    "ADMIN GERENCIAL/NOTAS para PARCIAL- final administración gerencial.md",
+    "_COSILLAS/android/dvr android dvr celular camera server para usar celular de camata.md",
     "DDS-Notas/vigilancia y  DVR simulacion/emuladores de DVR.md",
-    "_COSILLAS/servidor FPT filebrowser.md",
-    "ADMIN GERENCIAL/poder delegacion.md",
-    "ADMIN GERENCIAL/notas admin gerencial poder autoridad poder fuentes del poder delegacion 2025 05 14 19 07 57.md",
-    "ADMIN GERENCIAL/tachini - dinamica liderazgo y motivacion maslow y hesberg.md",
-    "ADMIN GERENCIAL/Sin título.md",
-    "ADMIN GERENCIAL/dinamica negociacion grupales de equipos.md",
-    "SDG/toldo gallego v2 2025 05 29.md",
-    "GESTION COMERCIAL/_herramientas para TP.md",
-    "GESTION COMERCIAL/clase landing page y propuestas de valor.md",
-    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/parciales.md",
-    "SDG/ej flamingo y sensibilizacion.md",
-    "Note Narration Audio/segmentos - tipos de segmentos - 01 oct 2025 21-45.mp3",
-    "Note Narration Audio",
-    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-44.mp3",
-    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-43 (1).mp3",
-    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-43.mp3",
-    "SDG/Pasted image 20250717024033.png",
-    "SDG/Pasted image 20250717024029.png",
-    "SDG/Pasted image 20250717024006.png",
-    "SDG/Pasted image 20250715020153.png",
-    "SDG/Pasted image 20250715015959.png",
-    "SDG/prototipo/prototipo.png",
-    "SDG/prototipo",
-    "SDG/MINISTERIO",
-    "SDG/ARCOR",
-    "ESP 32/_imagenes/Pasted image 20240225195421.png",
-    "ESP 32/_imagenes/Pasted image 20240225133342.png",
-    "ESP 32/_imagenes/Pasted image 20240225133147.png",
-    "ESP 32/_imagenes",
-    "SO-sistemas operativos/otros",
-    "Pasted image 20250821205827.png"
+    "NEUROCIENCIA/storytelling.md",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/pa mi jefita gametrack.pdf",
+    "SO-sistemas operativos/SO/apuntes fotos/Pasted image 20250128150044.png",
+    "DDS-Notas/Arquitectura_ Primeros Pasos.pdf",
+    "DDS-Notas/Parciales resueltos/2dos parciales/Ride Me/capturas/Pasted image 20241220091107.png",
+    "DDS-Notas/Arduino/capturas/Pasted image 20241223141019.png",
+    "SO-sistemas operativos/SO/apuntes fotos/Pasted image 20250128145957.png",
+    "DDS-Notas/Parciales resueltos/primer parcial/Gametrack/Pasted image 20241214003547.png",
+    "DDS-Notas/NODE js IoT pub-sub con MQTT, testing y web sockets/capturas/Pasted image 20250108213659.png",
+    "NEUROCIENCIA",
+    "Seminario Integrador/clase 1.md",
+    "LEGISLACION/2026/2026 legislacion clase 2.md",
+    "LEGISLACION/Sin título.md",
+    "LEGISLACION/2026",
+    "DDS-Notas/Ejercicio Macowins ok-2026-04-08-14-14-02.png",
+    "DDS-Notas/ok notas Arq. mecanismos de integración - atributos de calidad.md",
+    "Seminario Integrador",
+    "LEGISLACION/profe castiarena",
+    "IA",
+    "DDS-Notas/relacion-composicion.png",
+    "DDS-Notas/relacion-agregacion.png",
+    "DDS-Notas/Tp 2024",
+    "DDS-Notas/SO/apuntes fotos/Pasted image 20250128150044.png"
   ]
 }

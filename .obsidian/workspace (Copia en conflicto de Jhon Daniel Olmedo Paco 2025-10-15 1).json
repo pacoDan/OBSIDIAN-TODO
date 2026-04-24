@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "3e4f4d37622e9717",
+    "type": "split",
+    "children": [
+      {
+        "id": "daed20b4c0078619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f101abe0b0ad8d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROMPT.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PROMPT"
+            }
+          },
+          {
+            "id": "f887803196502116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTH/marca personal 2.0.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "marca personal 2.0"
+            }
+          },
+          {
+            "id": "ec5b2c1ae5aca009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADMIN GERENCIAL/_ self aux informe Ética y management en la era digital Privacidad, transparencia algorítmica y responsabilidad gerencial en un mundo cada vez más digital.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_ self aux informe Ética y management en la era digital Privacidad, transparencia algorítmica y responsabilidad gerencial en un mundo cada vez más digital"
+            }
+          },
+          {
+            "id": "d7fed94904bc83ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/clase 5 persistencia poliglota 2025 09 17.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "clase 5 persistencia poliglota 2025 09 17"
+            }
+          },
+          {
+            "id": "861f820d450a360b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/clase 6 mongo db sharding 2025 09 24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "clase 6 mongo db sharding 2025 09 24"
+            }
+          },
+          {
+            "id": "2374b0cdf1975d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/TP enunciado SELF.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TP enunciado SELF"
+            }
+          },
+          {
+            "id": "f041a33e437a9c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/Sin título.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "dc38bec0f1632c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/Sin título 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
+          },
+          {
+            "id": "44796291ec42a083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NO SQL/TP tree.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TP tree"
+            }
+          },
+          {
+            "id": "a1adb6e4442c75f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDG/TNA a TEA por que.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TNA a TEA por que"
+            }
+          },
+          {
+            "id": "064e378d40b92d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDG/prestamos aleman vs frances vs americano.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "prestamos aleman vs frances vs americano"
+            }
+          },
+          {
+            "id": "50d6e2b66568d644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDG/SDG ejercicio final limpieza.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SDG ejercicio final limpieza"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b559f8b6d6a3cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe79c764401f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8103d943415f3750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "584f9c1e3f19c269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1b41b8ed1899bc53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5124969482422,
+    "collapsed": true
+  },
+  "right": {
+    "id": "55bd2488a8928069",
+    "type": "split",
+    "children": [
+      {
+        "id": "157bbb0a7b086447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6ae2934e5efd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADMIN GERENCIAL/notas gerente general sallenave 2025 04 16 super ok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de notas gerente general sallenave 2025 04 16 super ok"
+            }
+          },
+          {
+            "id": "f22964e5ce058b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de radioenlace v4"
+            }
+          },
+          {
+            "id": "29de0e72895e914e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d991f6aeeb5845fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radioenlace/radioenlace v4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de radioenlace v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "50d6e2b66568d644",
+  "lastOpenFiles": [
+    "aux ulauncher config.md",
+    "Sin título.md",
+    "PROMPT.md",
+    "SDG/SDG ejercicio final limpieza.md",
+    "SDG/prestamos aleman vs frances vs americano.md",
+    "Sin título 2.md",
+    "Sin título 1.md",
+    "SDG/TNA a TEA por que.md",
+    "SDG/ahorro sueldo - indemnizacion.md",
+    "SDG/acciones comerciales demanda de unidades por acciones comerciales.md",
+    "SDG/despidos.md",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/preguntas apunte.md",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/clase 2 preguntas recopilacion todos.md",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/GTO pasos de kotter desde audio ok.md",
+    "GESTION DE LA TRANSFORMACION ORGANIZACIONAL/TP en clase 13 de septiembre.md",
+    "_COSILLAS/mkv a audio aac ok.md",
+    "NO SQL/TP 8 estructura notebook LM.md",
+    "NO SQL/Sin título 2.md",
+    "_COSILLAS/wine instalacion office ok.md",
+    "NO SQL/TP 7.md",
+    "NO SQL/clase 6 mongo db sharding 2025 09 24.md",
+    "NO SQL/clase 5 persistencia poliglota 2025 09 17.md",
+    "ADMIN GERENCIAL/_ self aux informe Ética y management en la era digital Privacidad, transparencia algorítmica y responsabilidad gerencial en un mundo cada vez más digital.md",
+    "NO SQL/TP enunciado SELF.md",
+    "NO SQL/TP tree.md",
+    "NO SQL/Sin título 1.md",
+    "Note Narration Audio/segmentos - tipos de segmentos - 01 oct 2025 21-45.mp3",
+    "Note Narration Audio",
+    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-44.mp3",
+    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-43 (1).mp3",
+    "Note Narration Audio/preparcial notas 1er parcial - 01 oct 2025 21-43.mp3",
+    "SDG/Pasted image 20250717024033.png",
+    "SDG/Pasted image 20250717024029.png",
+    "SDG/Pasted image 20250717024006.png",
+    "SDG/Pasted image 20250715020153.png",
+    "SDG/Pasted image 20250715015959.png",
+    "SDG/prototipo/prototipo.png",
+    "SDG/prototipo",
+    "SDG/MINISTERIO",
+    "SDG/ARCOR",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225195421.png",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225133342.png",
+    "_COSILLAS/ESP 32/_imagenes/Pasted image 20240225133147.png",
+    "_COSILLAS/ESP 32/_imagenes",
+    "SO-sistemas operativos/otros",
+    "Pasted image 20250821205827.png"
+  ]
+}

@@ -35,3 +35,33 @@ Habilidades del Gerente, herramientas:
 
 
 Negociador esta en al esfera DESICIONAL. (segun mintzberg)
+
+
+---
+
+
+Teoría Dual de Herzberg
+
+Herzberg plantea que la **satisfacción** e **insatisfacción** de los empleados se relacionan con dos grandes bloques o "zonas de motivación":
+
+1. **Factores Higiénicos o de Mantenimiento (Elementos Periféricos):** Son aquellos que **rodean la tarea** (ej. salario, beneficios sociales, relaciones con pares o supervisores, condiciones laborales).
+
+    ◦ Estos factores son **cortoplacistas**. Previenen la insatisfacción y la desmotivación, pero si están presentes, **no motivan** a largo plazo (ej. un aumento salarial satisface inicialmente, pero el efecto desaparece en semanas o meses).
+
+2. **Factores Motivadores (Relacionados con la Tarea):** Son aquellos relacionados **concretamente con el trabajo en sí mismo** (ej. responsabilidad, el prestigio del puesto, el crecimiento personal, las tareas desafiantes, el progreso).
+
+    ◦ Estos factores tienen un **alto alcance de motivación** y perduran más en el tiempo. El progreso, la innovación, el cambio y el crecimiento son buscados por la mayoría de las personas.
+
+La **monotonía** o el tener que realizar siempre el mismo trabajo **frustra** a la gente.
+
+--
+
+IV. El Rol del Negociador (según Mintzberg)
+
+El rol de **Negociador** es uno de los diez papeles gerenciales definidos por Mintzberg, y se encuentra dentro de la **esfera Decisional**.
+
+La esfera Decisional también incluye los roles de Emprendedor, Árbitro y Administrador de Recursos.
+
+El negociador se vincula con otros sectores o áreas de la organización para realizar un **trueque o intercambio** (dar algo y recibir algo) y así llevar adelante el negocio.
+
+Existen dos **estrategias básicas de negociación** (según Robbins y Culter): **distributiva** (uno gana, otro pierde—suma cero) e **integradora** (ambas partes ganan o se van satisfechas). También se mencionan tres **estilos de negociación** (según Riqué): competitivo, cooperativo e integrador.

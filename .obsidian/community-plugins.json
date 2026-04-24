@@ -1,4 +1,6 @@
 [
   "copy-url-in-preview",
-  "edge-tts"
+  "edge-tts",
+  "obsidian-plantuml",
+  "mermaid-tools"
 ]
